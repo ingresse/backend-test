@@ -47,7 +47,7 @@ The Ingresse team will try to analyse many aspects of your work. We will basical
 
 - you understanded the entire scope and gave an acceptable solution; 
 - you choose tools that fit well to the problem
-- your code is clear and simple enought;
+- your code is clear and simple enough;
 - the repo is well maintained, with a good and clear commit tree;
 - your tests are covering well the application scenarios.
 
