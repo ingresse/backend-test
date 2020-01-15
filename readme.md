@@ -41,7 +41,7 @@ Once the customer finds the event, they can add an interest to it, so other cust
 
 ### What we expect
 
-We just expect a Git repo (on Github, Bitbucket, Gitlab, etc.). 
+We do expect a Git repo (on Github, Bitbucket, Gitlab, etc.). 
 
 The Ingresse team will try to analyse many aspects of your work. We will basically see if:
 
